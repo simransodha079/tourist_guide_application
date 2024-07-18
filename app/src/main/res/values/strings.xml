@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TourGuidApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tag1_play_sound_icon">click to play</string>
+    <string name="tag2_play_sound_icon">click to pause</string>
+
+    <string name="historical_places">Historical places</string>
+    <string name="beaches"> Beaches </string>
+    <string name="natural_places"> Natural places </string>
+    <string name="museums"> Museums </string>
+    <string name="restaurants"> Restaurants</string>
+    <string name="islamics"> Islamics </string>
+    <string name="copts"> Copts </string>
+
+    <string name="communicate"> Communicate </string>
+    <string name="share"> Share </string>
+
+    <string name="share_via_facebook">share via facebook</string>
+    <string name="share_via_whatsapp">share via whatsapp</string>
+    <string name="share_via_gmail">share via gmail</string>
+    <string name="invitation_activity">Invite friends</string>
+    <string name="text_invitation">Invite your friends</string>
+
+    <string name="country">EGYPT</string>
+    <string name="country_address">Eastern-North of Africa </string>
+    <string name="country_description">Arab Republic of Egypt is a Mediterranean country bordered by Palestine to
+        the northeast, the Gulf of Aqaba to the east, the Red Sea to the east and south, Sudan to the south, and Libya to the west. Across the Gulf of Aqaba lies Jordan, and across from the Sinai Peninsula lies Saudi Arabia, although Jordan and Saudi Arabia do not share a land border with Egypt. know more @[https://en.wikipedia.org/wiki/Egypt]</string>
+
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/zero_value"
+    android:layout_weight="1"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/margin_value"
+    android:paddingRight="@dimen/margin_value">
+
+    <TextView
+        android:id="@+id/elapsed_time"
+        style="@style/time_sound_text_style"
+        android:paddingLeft="@dimen/margin_value" />
+
+    <android.support.v7.widget.AppCompatSeekBar
+        android:id="@+id/id_seekbar"
+        android:layout_width="@dimen/zero_value"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="5"
+        android:clickable="true"
+        android:focusable="true" />
+
+
+    <TextView
+        android:id="@+id/full_time"
+        style="@style/time_sound_text_style" />
+
+    <ImageView
+        android:id="@+id/play_sound_icon"
+        android:layout_width="@dimen/zero_value"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:src="@drawable/ic_play_circle_outline_black_48dp"
+        android:tag="@string/tag1_play_sound_icon" />
+</LinearLayout>

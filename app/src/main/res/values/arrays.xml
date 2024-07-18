@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="museums_names">
+        <item>Egyptian Museum</item>
+        <item>Museum of Islamic Art</item>
+        <item>The Coptic Museum</item>
+        <item>The Alexandria National Museum</item>
+        <item>Abdeen Palace Museum</item>
+        <item>The Agriculture Museum</item>
+    </string-array>
+    <string-array name="museums_address">
+        <item>Cairo</item>
+        <item>Cairo</item>
+        <item>Cairo</item>
+        <item>Alexandria</item>
+        <item>Cairo</item>
+        <item>Cairo</item>
+    </string-array>
+    <string-array name="museums_descriptions">
+        <item>The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, in Cairo,
+            Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items,
+            with a representative amount on display, the remainder in storerooms. The edifice is one of the largest museums in the region. As of July 2017,
+            the museum is open to the public.more@[https://en.wikipedia.org/wiki/Egyptian_Museum]</item>
+        <item>The Museum of Islamic Art, in Cairo, Egypt, is considered one of the greatest in the world, with its exceptional collection of rare woodwork and plaster artefacts, as well as metal, ceramic, glass, crystal, and textile objects of all periods, from all over the Islamic world.
+
+In recent years, the museum has displayed about 4,500 artefacts in 25 Halls ,[1] but it houses more than 100,000 objects, with the remainder in storage. The collection includes rare manuscripts of the Qur\'an, with some calligraphy written in silver ink, on pages with elaborate borders.
+
+The Museum has conducted archaeological excavations in the Fustat area and has organized a number of national and international exhibitions. The museum closed for renovations in 2003, and re-opened 8 years later, in August 2010.[1] The restoration cost nearly US$10 million.[1]more@[https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo]</item>
+        <item> The Coptic Museum in Cairo has been closed for some time for remodeling, but we are now celebrating its recent reopening, a welcome addition to Old Coptic Cairo. It is located in the heart of Coptic Cairo.
+
+
+
+Christianity has a long history in Egypt, and there continues to be a significant population of Christians in Egypt today. Besides the truly Egyptian heritage of Coptic Christians, there are also Roman Catholics, as well as a number of Protestant sects. Christianity spread in Egypt during the 2nd century in Egypt, just after and indeed during the Roman pagan period, and it became the dominant religion in Egypt up until the Arab invasion in 641 AD.more@[http://www.touregypt.net/featurestories/copticmuseum1.htm]</item>
+        <item> Notation: Zahraa Adel Awed is a licensed Travel Guide living in Alexandria who frequently assists people who visit our Forum system, and who operates our Alexandria News Blog
+
+
+
+As the principal anchorage of the Hellenic Empire, the Ptolemaic capital and Egypt\'s second largest metropolis, the Mediterranean port of Alexandria has always been a center of cultural significance. Celebration of this has been a big part of Alexandria\'s recent development, and these days there is the Alexandria National Museum, a splendid facility that documents Alex\'s rich heritage.more@[http://www.touregypt.net/featurestories/alexandrianationalmuseum.htm]</item>
+        <item> Abdeen Palace was built in 1863 on a 25-feddan area by Egyptian, Italian, French and Turkish architects. In 1872 the lush and luxurious palace became the seat of the government.
+
+
+
+Believing in the fact that such palace is part and parcel of Egypts heritage, President Mubarak in the late eighties ordered that the palace, one of the most beautiful in the world, be completely restored. Restoration work took longer than expected as the old palace was hit during the strong 1992 earthquake that jolted Egypt.
+
+
+
+Abdeen Palace is one of the most famous palaces that were erected during the reign of Mohamed Ali Pasha Dynasty. It was the seat of the government as of 1872 till 1952. During such eventful period of time, Abdeen Palace witnessed unforgettable events that undoubtedly affected Egypts modern and contemporary history.
+
+
+
+Khedive Ismail ordered the palace be erected in 1863, and the palace was named after Abdeen Bay, one of the army commander under Mohamed Ali Basha. In 1872, Khedive Ismail moved to Abdeen Palace, leaving the castle, old seat of Egypts government, that was built by Saladdin Al Ayoubi in 1171. And today the Abdeen Palace Museum complex stands as an evidence to Egypt\'s active role over times.
+
+
+
+The complex features a military museum of all arms presented as gifts to President Mubarak on different occasions, a museum of ancient weapons and a third of the medals and orders of merit bestowed on members of Egypts formal royal family and eminent Egyptian figures.[http://www.touregypt.net/abdeenpalace.htm]</item>
+        <item>Agriculture has played a major role in the Egyptian history and always affected the lives of Egyptians from the days of the pharaohs up to our modern time. There is much truth in the famous saying: Egypt is the gift of the Nile. This is because the Nile is the major source of water used in agriculture in Egypt. Therefore, because of agriculture\'s ancient and continuing importance to Egyptian life, during the 1930s the Egyptian government decided to build an agriculture museum. The museum was built during the period of King Farouk to mainly serve two purposes. These are to provide information agricultural and economic knowledge and to record the history of agriculture over a long period that extends form prehistoric to modern times.
+
+The palace of Princess Fatma, daughter of Khedive Ismail, was chosen to house the museum in November, 1930. The Ministry of Agriculture made a lot of changes in the palace to make it suitable as a museum. The museum was first opened on 16 January 1938 and was the first museum of this kind in the world.more@[http://www.touregypt.net/featurestories/agriculturalmuseum.htm]</item>
+    </string-array>
+    <array name="museums_images">
+        <item>@drawable/egyptian_museum</item>
+        <item>@drawable/cairoislamicmuseum</item>
+        <item>@drawable/coptmuseum15</item>
+        <item>@drawable/alexnationalmuseum1</item>
+        <item>@drawable/abdeen</item>
+        <item>@drawable/agmuseum1</item>
+    </array>
+    <array name="museums_sounds">
+        <item>@raw/egyptian_museum</item>
+        <item>@raw/islamic_museum</item>
+        <item>@raw/coptic_museum</item>
+        <item>@raw/alexandria_museum</item>
+        <item>@raw/abdeen</item>
+        <item>@raw/agriculture_museum</item>
+    </array>
+
+    <string-array name="islamics_names">
+        <item>Al-Azhar Mosque</item>
+        <item>Khan el-Khalili</item>
+        <item>The Citadel</item>
+        <item>Sultan Hassan Mosque</item>
+        <item>Bab Zuweila</item>
+        <item>Ibn Tulun Mosque</item>
+        <item>Mosque of Al-Hakim</item>
+    </string-array>
+    <string-array name="islamics_address">
+        <item> Al-Azhar Street, Islamic Cairo District</item>
+        <item> Off Al-Azhar Street, Islamic Cairo District</item>
+        <item> Off Midan Salah-ad-Din, Islamic Cairo District</item>
+        <item> Midan Salah-ad-Din, Islamic Cairo District</item>
+        <item> Al-Muiz li-Din Allah Street, Islamic Cairo District</item>
+        <item> Al-Saliba Street</item>
+        <item> Al-Galal Street, Islamic Cairo District</item>
+    </string-array>
+    <string-array name="islamics_descriptions">
+        <item>Al-Azhar Mosque is the finest building of Cairo\'s Fatimid era, and one of the city\'s earliest surviving mosques, completed in AD 972. It\'s also one of the world\'s oldest universities; Caliph El-Aziz bestowed it with the status of university in AD 988 (the other university vying for "oldest" status is in Fes) and today, Al-Azhar University is still the leading theological center of the Islamic world.
+
+The main entrance is the Gate of the Barbers on the northwest side of the building, adjoining the neo-Arab facade built by Abbas II. Leave your shoes at the entrance and walk into the central courtyard. To your right is the El-Taibarsiya Medrese, which has a mihrab (prayer niche) dating from 1309. From the central courtyard, you get the best views of the mosque\'s five minarets, which cap the building. Across the courtyard is the main prayer hall, spanning a vast 3,000 square meters. The front half is part of the original building, while the rear half was added by Abd el-Rahman.
+
+Al-Azhar Mosque is right in the heart of the Islamic Cairo district and easy to reach by taxi. Al-Azhar Street runs east from Midan Ataba in the downtown area right to the square where the mosque sits.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>Khan el-Khalili is one of the world\'s great shopping experiences. This Middle Eastern souq (bazaar) is a labyrinthine collection of skinny alleyways established as a shopping district in AD 1400 that still rings with the clang of metal workers and silversmiths. The main streets have long ago given themselves over completely to the tourist trade (with plenty of cheap papyrus pictures and plastic pyramids on display), but divert off the main drag into the surrounding alleyways, and the tiny stores and cluttered workshops are some of the best places to pick up traditional products in Egypt. Here you\'ll find everything from antiques and gorgeous metal lampshades to locally woven textiles. While here stop in at Cairo\'s most famous coffee shop, Fishawis, where syrupy Arabic coffee and sweet tea are dished out to tourists and local merchants alike at a rapid-fire pace.
+
+For shoppers, the main souq road is Al-Muski Street (called Gawhar al-Qaid Street at its eastern end). The gold and silver workshops mostly congregate just north of this street\'s intersection with Al-Muizz Li-Din Allah Street, while the spice market section is just to the south. The market is hemmed in on its eastern side by the Neo-Gothic bulk of the Sayyidna el-Husein Mosque, built in 1792 to honor the Prophet Muhammad\'s grandson.
+
+The entry to the Khan el-Khalili area is across the road from Al-Azhar Mosque.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>In a commanding location at the foot of the Mokattam Hills, Cairo\'s citadel was built by Saladin in 1176. The original structure he laid out has long disappeared except for the eastern outer walls, but a legacy of rulers has made their own additions here. The Mosque of Muhammad Ali is the most famous monument and the main reason for visiting. Nicknamed the "Alabaster Mosque," its white stone and tall, disproportionately slender minarets are one of Cairo's great landmarks. The other big reason to come up here are the views across the city; head to the Gawhara Terrace for the best panorama in town.
+
+Just to the northeast of the Muhammad Ali Mosque is the El-Nasir Mosque, built in 1318-35 by Mohammed el-Nasir. A collection of rather half-hearted museums (the Police Museum, National Military Museum, and Carriage Museum) take up some of the other buildings on site and are more worthwhile viewing for the architecture of the actual buildings rather than the exhibits themselves.
+
+You can walk to the citadel area from Bab Zuweila, if you\'re feeling energetic, by heading along Khayyamiyya Street. The walk takes about 30 minutes.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>One of the finest examples of Mamluk architecture in the world, Sultan Hassan Mosque is a vision of Arabic artistry with an abundance of stalactite detailing and intricate arabesque features. It was built in 1356-63 for the Sultan Hassan el-Nasir.
+
+The exterior, with its large areas of stone, is reminiscent of an ancient Egyptian temple. The massive main doorway at the north corner is almost 26 meters high, and the minaret at the south corner is the tallest in Cairo at 81.5 meters.
+
+The main doorway leads into a domed vestibule, beyond which are a small antechamber and a corridor leading into the ornate open Court centered around an ablution fountain. From here, an iron door leads into the sultan\'s mausoleum where the stalactitic pendentives of the original dome still survive. In the center of the chamber is the sultan\'s simple sarcophagus.
+
+Directly facing the Sultan Hassan Mosque is the El-Rifai Mosque, built in 1912 to house the tomb of Khedive Ismail and constructed to replicate its older next door neighbor. The ex Shah of Iran, Mohammed Reza Pahlavi (1919-1980) is also buried here.
+
+Both mosques prominently sit on Midan Salah ad-Din, directly below Cairo\'s Citadel.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>Of all the Islamic Cairo district\'s gates, Bab Zuweila is the most interesting.
+            You can climb to the top of this medieval era relic (built in the 11th century) for some amazing rooftop views over Islamic Cairo. The gate itself has two minarets and is the last southern gate of the old town still standing. Right next door is the red-and-white stonework of the Sheikh al-Mu\'ayyad Mosque and a few steps further away is the fascinating artisan stalls of the Street of the Tentmakers where Egypt\'s bright fabric used for weddings and other special occasions is sold in bulk.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>The second oldest mosque still standing in Cairo, Ibn Tulun Mosque, was built between AD 876 and 879 and modeled on the Kaaba in Mecca (Saudi Arabia). At the time it was built, it was the largest mosque in existence. The Main Court\'s colonnades have plentiful surviving fragments of intricate frieze work on display and open onto a series of narrow-fronted halls. The main prayer hall (on the southern side of the court) still holds onto fragments of its older decoration of carved stucco and wood, and the mihrab here has remnants of its original gold mosaic decoration.
+
+On the mosque\'s northern side is the 40-meter-high minaret with a fine horseshoe arch over the entrance and a spiral staircase swirling through the interior. It is modeled on the minarets of the Great Mosque of Samarra on the Tigris. If you climb the 173 steps up to its upper platform there are superb views extending over the sea of houses to the north, and to the Mokattam Hills in the east.
+
+It\'s an easy stroll from the Sultan Hassan Mosque to the Ibn Tulun Mosque walking straight down Al-Saliba Street.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>Caliph Al-Hakim is one of the most fascinating rulers of Egypt. This Fatimid leader was renowned for his terrifying rule over the land, which included frequent murders of his royal household staff, nightly patrols of the streets of his city dressed incognito on a donkey to make sure his subjects were behaving themselves, and issuing bizarre rulings across the country (such as banning the eating of the Egyptian mallow-leaf called molokheya because only he wanted to be able to consume it).
+
+His mosque, finished in AD 1013, has functioned over the centuries as a madrassa, Crusader fortress, and mental hospital and was completely restored in the 1980s. The minarets here are the most interesting architectural elements. They were originally round, and their present square casing and domed top sections (resembling an Arab incense burner) date from their rebuilding after Cairo\'s 1303 earthquake.
+
+The mosque sits in between two of the old city district\'s most important gates. Bab el-Futuh (Gate of Conquests) on the mosque\'s western side and Bab el-Nasr (Gate of Victory) to the east are similar in form to ancient Roman town gates and were both built in 1087.
+
+You can walk between Al-Azhar Mosque and the Mosque of Al-Hakim by following Al-Mu\'izz li-Din Allah Street all the way north.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+    </string-array>
+    <array name="islamics_images">
+        <item>@drawable/egypt_cairo_al_azhar_mosque</item>
+        <item>@drawable/egypt_cairo_perfume_shop_in_khan_el_khalili</item>
+        <item>@drawable/egypt_cairo_muhammad_ali_mosque_on_the_citadel</item>
+        <item>@drawable/egypt_cairo_sultan_hassan_mosque</item>
+        <item>@drawable/egypt_cairo_view_from_the_top_of_bab_zuweila</item>
+        <item>@drawable/egypt_cairo_ibn_tulun_mosque</item>
+        <item>@drawable/egypt_cairo_mosque_of_al_hakim</item>
+    </array>
+    <array name="islamics_sounds">
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+    </array>
+
+    <string-array name="restaurants_names">
+        <item>Sequoia in Zamalek – Cairo</item>
+        <item>Taboula Garden city </item>
+    </string-array>
+    <string-array name="restaurants_address">
+        <item>Cairo</item>
+        <item>Cairo</item>
+    </string-array>
+    <string-array name="restaurants_descriptions">
+        <item>Whatever what your preferences are, Sequoia is undoubtedly one of Egypt’s hottest spots, given it’s unique location on the Nile - it’s setting that changes all the time offering a truly unique experience on the River Nile’s banks.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>Although Taboula now has several branches, Garden city remains the best. A Lebanese restaurant with a typically Egyptian atmosphere. Their mezza menu is enough to please all taste buds, their main dishes are not-to-be-missed as well.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+    </string-array>
+    <array name="restaurants_images">
+        <item>@drawable/sequoia</item>
+        <item>@drawable/taboula</item>
+    </array>
+    <array name="restaurants_sounds">
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+    </array>
+
+    <string-array name="copts_names">
+        <item>Coptic Cairo</item>
+        <item>Monastery of St. Simeon</item>
+        <item>The Hanging Church</item>
+        <item>The Coptic Cemetery</item>
+    </string-array>
+    <string-array name="copts_address">
+        <item> Sharia Mar Girgis, south of Downtown</item>
+        <item> West Bank</item>
+        <item> Cairo</item>
+        <item> Cairo</item>
+    </string-array>
+    <string-array name="copts_descriptions">
+        <item>This small church-filled cluster of twisty laneways lies within the walls of Old Babylon where the Roman Emperor Trajan first built a fortress along the Nile. Parts of the Roman towers still preside over the main street.
+
+The Coptic Museum here contains a wealth of information on Egypt\'s early Christian period and is home to one of Egypt\'s finest collections of Coptic art. Next door, the 9th-century Hanging Church contains some beautiful examples of Coptic architecture. Founded in the 4th century, the church was originally built over the Roman gate towers (hence the name) and was substantially rebuilt during the 9th century.
+
+For many Christian travelers though, the real highlight of a visit to this district is the Church of St. Sergius and Bacchus where local legend says the Virgin Mary, baby Jesus, and family sheltered during King Herod\'s massacre of male babies. Further into the quarter, you come to the Ben Ezra Synagogue, which is said to be built near the spot where the baby Moses was found in the reeds. Just outside the quarter, you can also visit the Mosque of Amr Ibn al-As; the first mosque built in Egypt.
+
+Coptic Cairo is easiest reached by taking the Cairo Metro to Mar Girgis station.[https://www.planetware.com/tourist-attractions-/cairo-egy-cai-cai.htm]</item>
+        <item>The gloriously photogenic Monastery of St. Simeon sits between the sand dunes on the Nile\'s West Bank. Founded in the 7th century and finally abandoned in the 13th century due to water shortages, it\'s one of the largest and best preserved Coptic monasteries in Egypt.
+
+Inside the monastery courtyard, an aisled Basilica takes up the southern side of the monastery. At the east end of the wide nave, once covered by two domes, is the large apse, with three rectangular niches under semi domes. In the central niche are the remains of a fresco depicting Christ enthroned between angels. To the north and west of the church are various subsidiary buildings and small grottoes, while the eastern side is made up of living quarters. Upstairs, are some more well-preserved barrel-vaulted living quarters, including the monk cells, with brick beds and Coptic and Arabic inscriptions upon the walls.
+
+Standing on the monastery\'s fortified walls, overlooking the undulating dunes gives some sense of the isolation the monks who lived here must have faced. Today, you can hire a boat or felucca to take you to the monastery boat landing and then either hike or take a camel ride (30 minutes) into the sand to get here.[https://www.planetware.com/tourist-attractions-/aswan-egy-asw-asw.htm]</item>
+        <item>Considered the oldest Coptic church in the era of Old Cairo (Fustat), it’s named hanging or suspended as it was built on the ruins of two old towers that remained from an old fortress called 7esn Babylion (Fortress of Babylon). And dedicated to The Virgin Mary.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>An underrated Cemetery that has very old tombs and sculptures. After you visit the Hanging Church, Babylon Fortress, and the Coptic Museum, you cannot miss this cemetery.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+    </string-array>
+    <array name="copts_images">
+        <item>@drawable/slide_coptic_cemetery_780x209</item>
+        <item>@drawable/egypt_aswan_monastery_of_st_simeon_coptic</item>
+        <item>@drawable/hanging_church</item>
+        <item>@drawable/slide_coptic_cemetery_780x209</item>
+    </array>
+    <array name="copts_sounds">
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+    </array>
+
+    <string-array name="historical_names">
+        <item> Pyramids of Giza </item>
+        <item> Karnak - the Valley of the Kings </item>
+        <item> Abu Simbel</item>
+        <item> Luxor Temple</item>
+        <item> Temple of Hatshepsut</item>
+        <item> Temple of Seti I</item>
+        <item> Temple of Edfu</item>
+        <item> Philae Temples</item>
+        <item> Colossi of Memnon</item>
+        <item> Temple of Kom Ombo</item>
+        <item> Memphis </item>
+
+    </string-array>
+    <string-array name="historical_address">
+        <item> Giza </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Luxor </item>
+        <item> Giza </item>
+
+
+    </string-array>
+    <string-array name="historical_descriptions">
+        <item> The last surviving of the Seven Wonders of the Ancient World, the Pyramids of Giza are one of the world\'s most recognisable landmarks. Built as tombs for the mighty Pharaohs and guarded by the enigmatic Sphinx, Giza\'s pyramid complex has awed travelers down through the ages and had archaeologists (and a fair few conspiracy theorists) scratching their heads over how they were built for centuries. Today, these megalithic memorials to dead kings are still as wondrous a sight as they ever were. An undeniable highlight of any Egypt trip, Giza\'s pyramids should not be missed.[https://www.planetware.com/tourist-attractions/egypt-egy.htm]</item>
+        <item> Famed for the Valley of the Kings, Karnak Temple, and the Memorial Temple of Hatshepsut, the Nile-side town of Luxor in Upper Egypt has a glut of tourist attractions. This is ancient Thebes, powerbase of the New Kingdom pharaohs, and home to more sights than most can see on one visit. While the East Bank brims with vibrant souk action, the quieter West Bank is home to a bundle of tombs and temples that has been called the biggest open air museum in the world. Spend a few days here exploring the colorful wall art of the tombs and gazing in awe at the colossal columns in the temples, and you\'ll see why Luxor continues to fascinate historians and archaeologists.[https://www.planetware.com/tourist-attractions/egypt-egy.htm]</item>
+        <item> Even in a country festooned with temples, Abu Simbel is something special. This is Ramses II\'s great temple, adorned with colossal statuary standing guard outside, and with an interior sumptuously decorated with wall paintings. Justly famous for its megalithic proportions, Abu Simbel is also known for the incredible feat, which saw the entire temple moved from its original setting - set to disappear under the water because of the Aswan dam - during the 1960s in a massive UNESCO operation that took four years.[https://www.planetware.com/tourist-attractions/egypt-egy.htm]</item>
+        <item> The Luxor Temple is located on the east bank of the River Nile in the ancient city of Thebes and was founded in 1400 BC during the New Kingdom. The temple was dedicated to the three Egyptian gods Amun, Mut, and Chons. The temple was the center of the festival of Opet, Thebes’ most important festival. During the annual festival the statues of the three Gods were escorted from the temple of Amun in Karnak to the temple of Luxor along the avenue of sphinxes that connect the 2 temples. Today Luxor is the premier travel destination in Upper Egypt and many Nile cruises start or end in the city.[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> The Mortuary temple of Hatshepsut, who ruled Egypt from around 1479 BC until her death in 1458 BC, is situated on the west bank of the Nile. It is a colonnaded structure, which was designed and implemented by Senemut, the royal architect of Hatshepsut, to serve for her posthumous worship and to honor the glory of Amun. The temple is built into a cliff face that rises sharply above it and consists of three layered terraces reaching 30 meters (97 ft ) in height. These terraces are connected by long ramps which were once surrounded by gardens.[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> The Temple of Seti I is the mortuary temple of Pharaoh Seti I on the west bank of the Nile in Abydos. The ancient temple was constructed towards the end of the reign of Seti, and may have been completed by his son Ramesses the Great after his death in 1279 BC. The temple contains the Abydos King List. It is a chronological list of many dynastic pharaohs of Egypt from Menes, the Egyptian king credited with founding the First dynasty, until Ramesses I, Seti’s father.[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> The Temple of Edfu, dedicated to the falcon god Horus, is the second largest Egyptian temple after Karnak and one of the best preserved. The construction of this temple began in 237 BC during the reign of Ptolemy III, and completed almost two centuries later in 57 BC by Ptolemy XII, the father of the famous Cleopatra. This temple consists of traditional elements of Egyptian Temples of the New Kingdom, together with a few Greek elements such as the house of birth (the Mammisi).[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> The island of Philae was the center of the cult of the goddess Isis. The first temple on the island was built by native pharaohs of the 30th dynasty. The temple construction continued over a three century period by the Greek Ptolemaic dynasty and the Roman rulers. The Roman Emperor Trajan built the Trajan’s Kiosk in 100 AD which probably served as a river entrance into the larger temple of Isis. In the 1960s the temple and other monuments on the island were transported to the island of Agilika by UNESCO to save it from being submerged by the rising waters of the Nile due to the construction of the Aswan High Dam. The island of Philae is now buried beneath Lake Nasser.[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> Built around 1350 BC, The Colossi of Memnon are two massive stone statues depicting Pharaoh Amenhotep III in a seated position. The original function of the Colossi was to stand guard at the entrance to the Amenhotep’s mortuary temple where he was worshipped both before and after his departure from this world. Once the largest temples of ancient Egypt it is today almost completely disappeared except for the two statues. Both statues are quite damaged though, with the features above the waist virtually unrecognizable.[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> Situated on a high dune overlooking the Nile, The Temple of Kom Ombo is an unusual double temple built during the Ptolemaic dynasty. The actual temple was started by Ptolemy VI Philometor in the early second century BC. The Temple of Kom Ombo is actually two temples and everything is duplicated along the main axis. There are two entrances, two courts, two colonades, two hypostyle halls and two sanctuaries.[http://www.touropia.com/ancient-egyptian-temples/]</item>
+        <item> Cairo may be the modern capital of Egypt, but Memphis, just 25 km (15 miles) away, was the ancient capital. Located at the mouth of the Nile Delta, Memphis was one of the most important cities in ancient Egypt. It was home to Egyptian rulers who built vast temple complexes. Unfortunately, little remains of their achievements today, having been ravaged by the depredations of time, the flood plain environment and the usage of its stone for the buildings of medieval Cairo A must-see site is the Open Air Museums however, which contains a huge limestone statue of Ramses II as well as a massive alabaster Sphinx and other monuments.[http://www.touropia.com/day-trips-from-cairo/]</item>
+    </string-array>
+    <array name="historical_images">
+        <item>@drawable/egypt_cairo_pyramids_of_giza</item>
+        <item>@drawable/egypt_luxor_karnak_temple_at_night</item>
+        <item>@drawable/abu_simbel</item>
+        <item>@drawable/luxor_temple</item>
+        <item>@drawable/temple_of_hatshepsut</item>
+        <item>@drawable/temple_of_seti_i</item>
+        <item>@drawable/temple_of_edfu</item>
+        <item>@drawable/philae_temples</item>
+        <item>@drawable/colossi_of_memnon</item>
+        <item>@drawable/temple_of_kom_ombo</item>
+        <item>@drawable/memphis</item>
+    </array>
+    <array name="historical_sounds">
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+    </array>
+
+    <string-array name="natural_places_names">
+        <item>Wadi El Rayan</item>
+        <item>Gabal Dakrour </item>
+        <item>Wreck Diving Spots</item>
+        <item>The Fjord in Taba</item>
+        <item>Island of the Pharaoh</item>
+        <item>Ras Shitan</item>
+        <item>Whales Valley</item>
+        <item>The Colored Canyon</item>
+
+    </string-array>
+    <string-array name="natural_places_address">
+        <item>Al Fayoum</item>
+        <item>south eastern Siwa</item>
+        <item>Ras Muhammed in Sharm El-Sheikh</item>
+        <item>Taba</item>
+        <item>Taba</item>
+        <item>Nuweibaa</item>
+        <item>Sinai</item>
+        <item>Sinai-Taba</item>
+    </string-array>
+    <string-array name="natural_places_descriptions">
+        <item>Egypt isn’t all just sand dunes, as you’ll find out when you visit Wadi El Rayan, just over two hours by car from Cairo. It’s a nature reserve where you’ll see mountains, rock formations, oasis and beautiful waterfalls. You may also come across Egyptian wildlife such as gazelles, foxes and a whole bunch of birds, including migratory birds, eagles and falcons. The area also is known as Whale Valley because numerous whale fossils, among the first anywhere, were found here. If you drive yourself, a four-wheel drive vehicle is recommended because some roads are pretty rough. It gets hot here, so bring sunscreen and lots of water.</item>
+        <item>that’s a place that’s worth driving all the way to Siwa for 12 hours from Cairo. What it’s famous for is its hot sand healing characteristics. You’re buried in the sand up to your neck, during summer heat -so that the sand is hot as well- for 20 min, 3 to 5 times a day, and wait for magical results to happen.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>is Egypt’s most famous national park and diving spot, and among the most known diving sites in the world. Beside its crystal clear waters, Ras Muhammad witnesses the annual migration of several marine species, in addition to stunning mangroves, and coral reefs with a diversity of vertebrate and invertebrate species.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>Along the coastal route from Nuweibaa, 15km south of Taba, a flashing blue color will stop you, this is how you know that you made it to the Fjord. An amazing beach and diving spot, offering crystal clear water, dazzling coral reefs and an exceptional marine life. For experienced divers The Fjord is the place, the Fjord Banana is an alternative to the less experienced.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>Another strategic fortress built by Salah El-Din easily reached by boat from Taba coast. Other than visiting the fortress, it’s an amazing diving spot and offers views of Saudi Arabia - Jordan.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>30 minutes north from Nuweibaa is Ras Shetan diving site. The original name is Ras Shataan, the name is derived from the way Ras Shitan is formed which is on the two sides of a huge rock. Experienced divers out there get ready for an unforgettable dive that offers underwater canyons, caves, mountains, plateaus, hard corals, well preserved landscapes, puffer fish, you name it, and most of all anemones coming in all colors.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>A piece of desert that was a wide sea a million years ago. It is named the Whales Valley after the fossils of whales that it still has, along with a variety of rock formations that are best enjoyed at break of dawn, the Whales Valley offers overnight camping, barbecue and marveling at the stars.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+        <item>Is a hiking - climbing haven for those who like to wander, and is one of the top nature wonders of Sinai. What you can expect is a maze of sandstone rocks in hues of magenta, red, yellow, and purple reaching up to 40 meters high. It’s not advisable to go there in summer as the weather can get very hot, and make sure to go with a group to better enjoy it, and to be more safe.[http://www.travelstart.com.eg/blog/the-65-best-destinations-in-all-egypt/]</item>
+    </string-array>
+    <array name="natural_places_images">
+        <item>@drawable/wadi_el_rayan</item>
+        <item>@drawable/gabal_dakrour</item>
+        <item>@drawable/snorkeling</item>
+        <item>@drawable/fjord</item>
+        <item>@drawable/island_of_the_pharoah</item>
+        <item>@drawable/ras_shitan</item>
+        <item>@drawable/whales_valley</item>
+        <item>@drawable/colored_canyon</item>
+    </array>
+    <array name="natural_places_sounds">
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+    </array>
+
+    <string-array name="beaches_names">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="beaches_address">
+        <item> NO address </item>
+        <item> NO address</item>
+        <item> NO address</item>
+        <item> NO address</item>
+        <item> NO address</item>
+        <item> NO address</item>
+        <item> NO address</item>
+        <item> NO address</item>
+        <item> NO address</item>
+    </string-array>
+    <string-array name="beaches_descriptions">
+        <item> No Description </item>
+        <item> No Description  </item>
+        <item> No Description </item>
+        <item> No Description </item>
+        <item> No Description </item>
+        <item> No Description </item>
+        <item> No Description </item>
+        <item> No Description  </item>
+        <item> No Description </item>
+    </string-array>
+    <array name="beaches_images">
+        <item>@drawable/marsa_alam_1635x915</item>
+        <item>@drawable/matroh_1635x915</item>
+        <item>@drawable/sharm_1635x915</item>
+        <item>@drawable/hurghada_1635x915</item>
+        <item>@drawable/sokhna_1635x915</item>
+        <item>@drawable/alex_1635x915</item>
+        <item>@drawable/egypt_alexandria</item>
+        <item>@drawable/ras_shitan</item>
+        <item>@drawable/island_of_the_pharoah</item>
+    </array>
+    <array name="beaches_sounds">
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+        <item>@raw/egypt_description_sound</item>
+    </array>
+
+
+</resources>

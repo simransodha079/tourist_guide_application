@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <!-- page number and location name-->
+    <TextView
+        android:id="@+id/location_name"
+        style="@style/location_name_number_text_style" />
+
+    <!-- to show item image-->
+    <ImageView
+        android:id="@+id/category_item_image"
+        style="@style/image_style" />
+
+
+    <!--  for location : icon  + location text -->
+    <TextView
+        android:id="@+id/location_address"
+        style="@style/address_text_style" />
+
+    <include layout="@layout/play_sound_layout">
+
+    </include>
+
+    <!-- scroll view for description text -->
+    <ScrollView
+        style="@style/category_item_scroll_view_text_description_style"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <TextView
+            android:id="@+id/category_item_text_description"
+            style="@style/description_text_style" />
+    </ScrollView>
+
+
+</LinearLayout>

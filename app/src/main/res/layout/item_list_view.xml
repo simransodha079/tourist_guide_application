@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/id_item_text"
+    style="@style/text_style"
+    android:textSize="@dimen/item_list_text_size" />
+

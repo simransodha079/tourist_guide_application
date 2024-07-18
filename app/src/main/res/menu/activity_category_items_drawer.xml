@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:icon="@drawable/icons8_field_48"
+            android:title="@string/natural_places" />
+        <item
+            android:icon="@drawable/icons8_pyramids"
+            android:title="@string/historical_places" />
+        <item
+            android:icon="@drawable/icons8_parliament_48"
+            android:title="@string/museums" />
+        <item
+            android:icon="@drawable/icons8_restaurant_building_48"
+            android:title="@string/restaurants" />
+        <item
+            android:icon="@drawable/icons8_mosque_48"
+            android:title="@string/islamics" />
+        <item
+            android:icon="@drawable/icons8_cathedral_48"
+            android:title="@string/copts" />
+        <item
+            android:icon="@drawable/icons8_beach_48"
+            android:title="@string/beaches" />
+
+    </group>
+
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/icons8_share_48"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+</menu>

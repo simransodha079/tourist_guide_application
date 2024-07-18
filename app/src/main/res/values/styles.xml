@@ -1,0 +1,130 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- margin style for all app views // used because I don't use it for all views like images else I should use Padding attribute on mainLayouts-->
+    <style name="margin_style">
+        <item name="android:layout_margin">@dimen/margin_value</item>
+    </style>
+
+    <!-- all images style and it's parent padding style to apply padding values -->
+    <style name="image_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zero_value</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="image_style_land">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zero_value</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!-- icon_style_invitation_land -->
+    <style name="icon_style_invitation_land">
+        <item name="android:layout_width">@dimen/icon_height_value_invitation_land</item>
+        <item name="android:layout_height">@dimen/icon_height_value_invitation_land</item>
+        <item name="android:layout_margin">@dimen/icon_margin_value_invitation_land</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- category_item_text_location-->
+    <style name="text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- location number and name -->
+    <style name="location_name_number_text_style" parent="text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zero_value</item>
+        <item name="android:textSize">@dimen/name_text_size</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">@dimen/margin_value</item>
+    </style>
+    <!-- address text style -->
+    <style name="address_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zero_value</item>
+        <item name="android:textSize">@dimen/address_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">@dimen/margin_value</item>
+        <item name="android:drawableLeft">@drawable/icons8_marker_48</item>
+    </style>
+
+    <!-- description text style-->
+    <style name="description_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/description_text_size</item>
+        <item name="android:paddingBottom">@dimen/margin_value</item>
+    </style>
+
+    <!-- Invitation activity text style-->
+    <style name="invitation_text_style" parent="text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zero_value</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:textSize">@dimen/invitation_text_size</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <!--sound time text style-->
+    <style name="time_sound_text_style">
+        <item name="android:layout_width">@dimen/zero_value</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/time_sound_text_size</item>
+    </style>
+
+    <!-- category_item_linear_layout_location_text-->
+
+    <style name="linear_h_layout_share_icons_style" parent="margin_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/zero_value</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+
+    <!-- category_item_text_description scrollview-->
+    <style name="category_item_scroll_view_text_description_style" parent="margin_style">
+        <item name="android:layout_width">@dimen/zero_value</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <!-- vertical_layouts_style_category_item_land-->
+    <style name="vertical_layouts_style_category_item_land" parent="margin_style">
+        <item name="android:layout_width">@dimen/zero_value</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+
+</resources>

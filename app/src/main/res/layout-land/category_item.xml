@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <!-- scroll view for description text -->
+    <ScrollView style="@style/category_item_scroll_view_text_description_style">
+
+        <TextView
+            android:id="@+id/category_item_text_description"
+            style="@style/description_text_style" />
+    </ScrollView>
+
+
+    <!-- for image item and location h_layout -->
+    <LinearLayout style="@style/vertical_layouts_style_category_item_land">
+
+        <!-- page number and location name-->
+        <TextView
+            android:id="@+id/location_name"
+            style="@style/location_name_number_text_style" />
+
+        <!-- image item -->
+        <ImageView
+            android:id="@+id/category_item_image"
+            style="@style/image_style_land" />
+
+        <!--  for sound layout -->
+        <include layout="@layout/play_sound_layout">
+
+        </include>
+
+        <!--  for location : icon  + location text -->
+        <TextView
+            android:id="@+id/location_address"
+            style="@style/address_text_style" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

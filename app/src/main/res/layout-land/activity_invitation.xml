@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- show invitation activity image-->
+    <ImageView
+        android:id="@+id/image_invitation"
+        style="@style/image_style"
+        android:scaleType="center" />
+    <!-- description text -->
+    <TextView
+        android:id="@+id/text_invitation"
+        style="@style/invitation_text_style" />
+
+    <!-- share icons layout -->
+    <include layout="@layout/share_icons_layout">
+
+    </include>
+
+
+</LinearLayout>

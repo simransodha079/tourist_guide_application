@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- for invitation icon -->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/invite_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_value"
+        app:backgroundTint="@color/app_background"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_share" />
+
+
+    <!-- for main image and list view of categories-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <!--  main image-->
+        <ImageView
+            android:id="@+id/image_main"
+            style="@style/image_style" />
+
+
+        <!--  list view for categories -->
+        <ListView
+            android:id="@+id/list_view_main"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="@dimen/margin_value"
+            android:layout_weight="4">
+
+        </ListView>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

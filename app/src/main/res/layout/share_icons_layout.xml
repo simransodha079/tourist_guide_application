@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/linear_h_layout_share_icons_style"
+    android:layout_marginBottom="@dimen/margin_value">
+
+    <ImageView
+        android:id="@+id/facebook_icon"
+        style="@style/icon_style_invitation_land"
+        android:src="@drawable/icons8_facebook_f_48" />
+
+    <ImageView
+        android:id="@+id/whatsapp_icon"
+        style="@style/icon_style_invitation_land"
+        android:src="@drawable/icons8_whatsapp_48" />
+
+    <ImageView
+        android:id="@+id/gmail_icon"
+        style="@style/icon_style_invitation_land"
+        android:src="@drawable/icons8_gmail_48" />
+</LinearLayout>
